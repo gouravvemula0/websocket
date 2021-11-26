@@ -13,3 +13,4 @@ require (
 	github.com/klauspost/compress v1.10.3
 	golang.org/x/time v0.0.0-20191024005414-555d28b269f0
 )
+replace  nhooyr.io/websocket => github.com/gouravvemula0/websocket
